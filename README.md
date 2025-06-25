@@ -1,2 +1,1 @@
-# Codething
-# Codething
+Basic Python-based proxy
